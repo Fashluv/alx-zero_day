@@ -1,4 +1,1 @@
-Updating fca9e5e..9ba2768
-Fast-forward
- 0x03-git/README.md | 3 ++-
- 1 file changed, 2 insertions(+), 1 deletion(-)
+git pull
